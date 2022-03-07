@@ -6,6 +6,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите Ваш вес:");
         int a = scanner.nextInt();
-        System.out.print("Вес на луне = " + a * b);
+        System.out.print("Вес на Луне = " + a * b);
     }
 }
